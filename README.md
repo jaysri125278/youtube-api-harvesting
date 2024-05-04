@@ -15,7 +15,7 @@ This project is designed to harvest data from YouTube using the YouTube Data API
 - Python
 - Streamlit
 - YouTube Data API v3
-- SQL (SQLite/MySQL/PostgreSQL)
+- SQL
 
 ## Installation
 1. Clone this repository to your local machine.
